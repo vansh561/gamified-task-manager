@@ -9,7 +9,7 @@ import Toast        from "./Components/Toast";
 import LevelUpModal from "./Components/LevelupModal";
 
 // Pages
-import Dashboard   from "./Pages/Dashboard";
+import Dashboard   from "./Pages/DashBoard";
 import Tasks       from "./Pages/Tasks";
 import Achievements from "./Pages/Achievements";
 import Profile     from "./Pages/Profile";
