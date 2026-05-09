@@ -1,6 +1,6 @@
 import { GameProvider, useGame } from "./Context/GameContext";
 import { COLORS } from "./Config/Gameconfig";
-import "./styles/Global.css";
+import "./Styles/Global.css";
 
 // Components
 import Navbar       from "./Components/Navbar";
